@@ -15,6 +15,6 @@
 
 * < a href="link"> Imagens Prototipo
 
-* < a href="link"> Descrição das Funcionalidades
+* <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Descri%C3%A7%C3%A3o-das-Funcionalidades> Descrição das Funcionalidades
 
 ### Widgets usados e onde foram aplicados
