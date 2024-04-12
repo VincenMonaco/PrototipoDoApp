@@ -9,7 +9,7 @@
 
 ## Lista da Wikis
 
-* < a href="link"> Jogo utilizado
+* <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Jogo> Jogo utilizado
 
 * <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Descri%C3%A7%C3%A3o-do-Prototipo> Descrição do projeto  
 
