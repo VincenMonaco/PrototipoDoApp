@@ -11,7 +11,7 @@
 
 * Jogo utilizado
 
-* Descrição do projeto <a href= link> https://github.com/VincenMonaco/PrototipoDoApp/wiki/Descri%C3%A7%C3%A3o-do-Prototipo
+* <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Descri%C3%A7%C3%A3o-do-Prototipo> Descrição do projeto  
 
 * Imagens Prototipo
 
