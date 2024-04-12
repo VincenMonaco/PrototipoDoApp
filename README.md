@@ -1,2 +1,5 @@
-# PrototipoDoApp
-Prototipo de aplicativo guia para o jogo
+# Prototipo de guia
+Integrantes
+* Kauã de Castro
++ Vincenzo Monaco
+
