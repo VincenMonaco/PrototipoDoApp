@@ -22,3 +22,4 @@
 - <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#image-class>Image Class
 - <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#tabcontroller>TabController
 - <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#onhorizontaldragupdate>onHorizontalDragUpdate
+- <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#scrollcontroller> ScrollController
