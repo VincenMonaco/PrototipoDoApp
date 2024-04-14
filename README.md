@@ -18,3 +18,7 @@
 * <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Descri%C3%A7%C3%A3o-das-Funcionalidades> Descrição das Funcionalidades
 
 ### Widgets usados e onde foram aplicados
+
+- <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#image-class>Image Class
+- <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#tabcontroller>TabController
+- <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#onhorizontaldragupdate>onHorizontalDragUpdate
