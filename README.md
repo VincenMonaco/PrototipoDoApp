@@ -13,7 +13,7 @@
 
 * <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Descri%C3%A7%C3%A3o-do-Prototipo> Descrição do projeto  
 
-* <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Imagens> Imagens Prototipo
+* <a href = > Imagens Prototipo
 
 * <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Descri%C3%A7%C3%A3o-das-Funcionalidades> Descrição das Funcionalidades
 
