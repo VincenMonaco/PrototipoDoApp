@@ -19,7 +19,9 @@
 
 ### Widgets usados e onde foram aplicados
 
-- <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#image-class>Image Class
+- <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#image-class>Image
+- <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#text>Text
+- <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#appbar>Appbar
 - <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#tabcontroller>TabController
 - <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#onhorizontaldragupdate>onHorizontalDragUpdate
 - <a href = https://github.com/VincenMonaco/PrototipoDoApp/wiki/Widgets#scrollcontroller> ScrollController
